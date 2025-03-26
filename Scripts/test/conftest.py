@@ -18,3 +18,4 @@ def pages(driver):
         homepage=HomePage(driver)
         loginpage=LoginPage(driver)
     return Pages()
+print("Hai")
