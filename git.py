@@ -1,3 +1,3 @@
-print("Apple")
-print("Oranges")
+print("Hello")
+print("World")
 
